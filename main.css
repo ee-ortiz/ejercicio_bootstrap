@@ -1,0 +1,42 @@
+img {
+  float: left;
+  width: 10vmax;
+  height: 10vmax;
+  object-fit: cover;
+}
+
+#marron1 {
+  height: 20vh;
+  background-color: rgb(56, 43, 42);
+}
+
+#marron2 {
+  background-color: rgb(56, 43, 42);
+}
+
+#top_menu {
+  background-color: rgb(134, 95, 93);
+}
+
+#left_menu {
+  background-color: rgb(255, 166, 0);
+}
+
+.texto_blanco {
+  color: rgb(255, 255, 255);
+}
+
+.image_impar {
+  padding: 5%;
+  background-color: rgb(226, 86, 79);
+}
+
+.image_par {
+  padding: 5%;
+  background-color: rgb(69, 181, 216);
+}
+
+.main_content {
+  height: 30vh;
+  background-color: rgb(226, 211, 211);
+}
